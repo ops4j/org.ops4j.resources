@@ -15,7 +15,7 @@
 
 #if ($projectName)$projectName#else${project.name}#end
 
-Copyright ${projectTimespan}#if($project.organization.name) $project.organization.name#else The Apache Software Foundation#end
+Copyright ${projectTimespan}#if($project.organization.name) $project.organization.name#else OPS4J#end
 
 
 This product includes software developed at
